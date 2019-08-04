@@ -4,7 +4,7 @@
 
     操作系统:windows10   
     JAVA jdk:1.8
-    开发工具：IDEA 2018.2.1
+    开发工具：IDEA 
     java架构：spring boot 2.1.6
     源码官网：www.headyou.cn
     作者：jar
